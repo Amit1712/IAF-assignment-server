@@ -1,4 +1,4 @@
-Server side for IAF assignment
+# Server side for IAF assignment
 
 First to install all packages run the command:
 ### `npm install`
